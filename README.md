@@ -13,6 +13,11 @@
 
 ---
 
+## 📸 Showcase
+<div align="center">
+  <img src="" width="800" title="*Name* Quick Look" alt="*NAME* GIF screenshots showcase" />
+</div>
+
 
 ## 🔷 Project Overview
 <table>
@@ -37,30 +42,29 @@ Humans scan images first, so keep it near the top.
 
 
 ## ⚙️ Tech Stack & Tools
-<p>
-  <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="C#" />&nbsp;&nbsp;
-</p>
 
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td></td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" /></td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td></td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" /></td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
-    <td></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" title="Microsoft SQL Server" />
+    </td>
   </tr>
   <tr>
     <td><strong>Hosting</strong></td>
-    <td></td>
+    <td>N/A</td>
   </tr>
     <tr>
     <td><strong>Tools</strong></td>
-    <td></td>
+    <td><img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" /></td>
   </tr>
 </table>
 
