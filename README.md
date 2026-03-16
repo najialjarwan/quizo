@@ -13,11 +13,6 @@
 
 ---
 
-## 📸 Showcase
-<div align="center">
-  <img src="" width="800" title="*Name* Quick Look" alt="*NAME* GIF screenshots showcase" />
-</div>
-
 
 ## 🔷 Project Overview
 <table>
