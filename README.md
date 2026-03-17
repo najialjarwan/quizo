@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-⭐ Quizo • Desktop quiz application
+⭐ Quizo • Simple Quiz Desktop Application
 </h1>
 
 
