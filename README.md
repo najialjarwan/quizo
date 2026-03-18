@@ -15,9 +15,9 @@
 
 
 ## 🔷 Project Overview
-<table>
+<table align="center">
 <tr><td>Type</td><td>university project</td></tr>
-<tr><td>Role</td><td>full-stack</td></tr>
+<tr><td>My Role</td><td>full-stack</td></tr>
 <tr><td>Platform</td><td>desktop app</td></tr>
 <tr><td>Duration</td><td>fall 2024</td></tr>
 <tr><td>Status</td><td>completed</td></tr>
@@ -26,36 +26,28 @@
 </table>
 
 
-<!-- 
-📸 SCREENSHOTS PLACEHOLDER
-
-This section will eventually render project screenshots or GIF demos.
-Humans scan images first, so keep it near the top.
--->
-
-<!-- {{screenshots}} -->
-
-
 ## ⚙️ Tech Stack & Tools
 
-<table>
+<table align="center">
   <tr>
     <td><strong>Frontend</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" /></td>
-  </tr>
-  <tr>
     <td><strong>Backend</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" /></td>
+    <td><strong>Database</strong></td>
+    <td><strong>Tools</strong></td>
   </tr>
   <tr>
-    <td><strong>Database</strong></td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />
+    </td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />
+    </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" title="Microsoft SQL Server" />
     </td>
-  </tr>
-    <tr>
-    <td><strong>Tools</strong></td>
-    <td><img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" /></td>
+    <td>
+      <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" />
+    </td>
   </tr>
 </table>
 
