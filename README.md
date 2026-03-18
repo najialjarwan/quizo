@@ -53,10 +53,6 @@ Humans scan images first, so keep it near the top.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" title="Microsoft SQL Server" />
     </td>
   </tr>
-  <tr>
-    <td><strong>Hosting</strong></td>
-    <td>N/A</td>
-  </tr>
     <tr>
     <td><strong>Tools</strong></td>
     <td><img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" /></td>
