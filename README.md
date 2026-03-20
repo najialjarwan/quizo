@@ -43,7 +43,7 @@
       <img src="https://najialjarwan.vercel.app/external-icons/csharp.svg" height="40" title="CSharp" />
     </td>
     <td>
-      <img src="https://najialjarwan.vercel.app/external-icons/mss.svg" height="40" title="Microsoft SQL Server" />
+      &nbsp;&nbsp;&nbsp;<img src="https://najialjarwan.vercel.app/external-icons/mss.svg" height="40" title="Microsoft SQL Server" />
     </td>
     <td>
       <img src="https://najialjarwan.vercel.app/external-icons/visualstudio.svg" height="40" title="Visual Studio" />
