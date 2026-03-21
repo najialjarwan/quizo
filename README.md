@@ -52,6 +52,19 @@
 </table>
 
 
+## 🗂️ Project Structure
+
+```bash
+├── Program.cs            # Application entry point
+├── *.cs                  # Core logic and UI forms (main, login, signup, quiz)
+├── Resources/            # App images and icons
+├── Properties/           # Project resources and settings
+├── create_quizo_db.sql   # Database setup script
+├── Quizo.csproj          # Project configuration
+└── Quizo.sln             # Solution file
+```
+
+
 ## 💡 Problem / Motivation
 
 Quizo was developed during a Visual Programming course to explore object-oriented programming and event-driven application design using C# and Windows Forms. The goal was to build a structured quiz game capable of managing categories, levels, timers, and player progression through controlled application state.
